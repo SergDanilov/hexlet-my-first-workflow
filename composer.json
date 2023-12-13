@@ -1,0 +1,17 @@
+{
+    "name": "sergeydanilov38/hexlet-my-first-workflow",
+    "description": "for learning",
+    "license": "proprietary",
+    "autoload": {
+        "psr-4": {
+            "Sergeydanilov38\\HexletMyFirstWorkflow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SergDanilov",
+            "email": "danilovserg1985s@gmail.com"
+        }
+    ],
+    "require": {}
+}
